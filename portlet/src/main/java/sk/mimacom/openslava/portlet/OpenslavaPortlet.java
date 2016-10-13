@@ -1,4 +1,4 @@
-package sk.mimacom.liferay.dxp.portlet;
+package sk.mimacom.openslava.portlet;
 
 import com.liferay.portal.kernel.portlet.bridges.mvc.MVCPortlet;
 import javax.portlet.Portlet;
